@@ -17,5 +17,5 @@ Pull requester kabul edilir. Büyük değişikler için, lütfen önce neyi değ
 ## License
 [MIT]
 -----
-## Images 
-[KodluyoruzResim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+## Kodluyoruz
+[Kodluyoruz](www.patika.dev)
